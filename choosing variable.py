@@ -10,7 +10,8 @@ from sklearn.model_selection import StratifiedKFold
 # -----------------------------
 # 1️⃣ Load your dataset from local
 # -----------------------------
-data_root = r"C:\Users\J\desktop\4th\Graduate-Project\Integrated_HAR_Dataset"
+data_root = r"/Users/augleovo/PycharmProjects/PythonProject spline/.venv/bin/Integrated_HAR_Dataset_Sampled"
+
 def prove_50_features():
     print("Loading data for scientific verification...")
     # 加载 X_train (561维) 和 y_train
