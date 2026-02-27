@@ -1,0 +1,11 @@
+Metric,Value
+Accuracy,0.814852492370295
+Precision (Macro),0.8138857129856261
+Recall (Macro),0.8125824160151819
+F1-Score (Macro),0.8115401174151321
+Precision (Weighted),0.8179819333812905
+Recall (Weighted),0.814852492370295
+F1-Score (Weighted),0.814835779057747
+ROC-AUC (Macro),0.9739435355963054
+Features Used,26.0
+Feature Reduction (%),95.36541889483065
