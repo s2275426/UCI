@@ -1,1 +1,1 @@
-# UCI
+# Final project
